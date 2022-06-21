@@ -1,0 +1,8 @@
+D:\Coding\repos\operatorExcercise\operatorExcercise\operatorExcercise\obj\Debug\operatorExcercise.csproj.AssemblyReference.cache
+D:\Coding\repos\operatorExcercise\operatorExcercise\operatorExcercise\obj\Debug\operatorExcercise.csproj.SuggestedBindingRedirects.cache
+D:\Coding\repos\operatorExcercise\operatorExcercise\operatorExcercise\obj\Debug\operatorExcercise.csproj.CoreCompileInputs.cache
+D:\Coding\repos\operatorExcercise\operatorExcercise\operatorExcercise\bin\Debug\operatorExcercise.exe.config
+D:\Coding\repos\operatorExcercise\operatorExcercise\operatorExcercise\bin\Debug\operatorExcercise.exe
+D:\Coding\repos\operatorExcercise\operatorExcercise\operatorExcercise\bin\Debug\operatorExcercise.pdb
+D:\Coding\repos\operatorExcercise\operatorExcercise\operatorExcercise\obj\Debug\operatorExcercise.exe
+D:\Coding\repos\operatorExcercise\operatorExcercise\operatorExcercise\obj\Debug\operatorExcercise.pdb
